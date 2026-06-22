@@ -85,6 +85,20 @@
 
 该项目是**工具无关**的。核心提示词在根目录 `SKILL.md`，各工具的专属配置在 `tool-configs/` 目录下。
 
+### 快速选择指南
+
+不确定看哪一节？对照下表直接跳转：
+
+| 你用的是... | 安装说明 |
+|------------|----------|
+| **TRAE**（腾讯 AI IDE） | → [TRAE 安装](#trae) |
+| **CodeBuddy** | → [CodeBuddy 安装](#codebuddy) |
+| **Cursor** | → [Cursor 安装](#cursor) |
+| **Windsurf** | → [Windsurf 安装](#windsurf) |
+| **Cline**（VS Code 插件） | → [Cline 安装](#cline) |
+| **GitHub Copilot** | → [Copilot 安装](#github-copilot) |
+| **其他工具**（通义灵码、Aider 等） | → [通用安装](#其他-ai-编码工具) |
+
 ### 项目文件结构
 
 ```
